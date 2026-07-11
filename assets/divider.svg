@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1000 28" width="100%" xmlns="http://www.w3.org/2000/svg" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="dLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c7c7cc" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c7c7cc" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#c7c7cc" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dPulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#e5e5ea" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e5e5ea" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    @keyframes travel { 0%{transform:translateX(60px)} 100%{transform:translateX(940px)} }
+    .p { animation: travel 6s cubic-bezier(.45,0,.55,1) infinite alternate; }
+  </style>
+  <rect x="60" y="13.5" width="880" height="1" fill="url(#dLine)"/>
+  <g class="p"><ellipse cx="0" cy="14" rx="46" ry="5" fill="url(#dPulse)"/></g>
+  <circle cx="500" cy="14" r="1.6" fill="#e5e5ea" opacity="0.5"/>
+</svg>
