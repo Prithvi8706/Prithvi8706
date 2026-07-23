@@ -75,5 +75,5 @@
       <animate attributeName="width" from="0" to="50" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1" values="0;50"/>
     </rect>
 
-  <text x="952" y="264" text-anchor="end" class="mono" font-size="9" letter-spacing="2" fill="#5a5a5e">SYNC 2026-07-22</text>
+  <text x="952" y="264" text-anchor="end" class="mono" font-size="9" letter-spacing="2" fill="#5a5a5e">SYNC 2026-07-23</text>
 </svg>
