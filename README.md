@@ -11,10 +11,10 @@
   </a>
 </div>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-static-0c1a754088bc.svg" /><img src=".github/assets/readme-aura-hero-da97131b1f19.svg" width="860" alt="Prithvi Raghu. Python, TypeScript, Jupyter Notebook, Yacc" /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-static-60a0a4790f07.svg" /><img src=".github/assets/readme-aura-hero-8329a19899e6.svg" width="860" alt="Prithvi Raghu. Python, TypeScript, Jupyter Notebook, HTML" /></picture></p>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-static-5457cda80ee3.svg" /><img src=".github/assets/readme-aura-stats-4c4abae842cb.svg" width="860" alt="14 public repos; 4 stars; 942 commits in public default-branch history." /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-static-145692bc9d46.svg" /><img src=".github/assets/readme-aura-stats-7493bec4c34a.svg" width="860" alt="14 public repos; 4 stars; 822 commits in public default-branch history." /></picture></p>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-languages-static-7936c80982cf.svg" /><img src=".github/assets/readme-aura-languages-edf52a701bf8.svg" width="860" alt="Languages: Python, TypeScript, Jupyter Notebook, Yacc" /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-languages-static-8e3dcfed0184.svg" /><img src=".github/assets/readme-aura-languages-dc1368835efc.svg" width="860" alt="Languages: Python, TypeScript, Jupyter Notebook, HTML, Yacc" /></picture></p>
 
 <p align="center"><sub><a href="https://github.com/collectioneur/readme-aura">powered by readme-aura</a></sub></p>
