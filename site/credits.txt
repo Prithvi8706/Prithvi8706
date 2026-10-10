@@ -1,0 +1,42 @@
+CAT MASCOT / PLAYGROUND SOURCES
+
+Character: Turbo Granny's lucky-cat form from Dandadan.
+Unofficial fan work requested by the profile owner. No affiliation is claimed.
+Character rights remain with their respective owners; this is not a CC0 character.
+
+3D model, rig extensions, animation, and playground geometry: authored for this
+profile. Editable originals, scripts, and provenance records are maintained
+in the owner's private development repository.
+
+Portrait refinement: front-facing image supplied by the user on October 9, 2026.
+Used to compare ear silhouettes, eye proportions, and facial markings; not
+embedded as a texture or redistributed as a reference asset. Source URL and
+license were not supplied. Character rights remain with their owners.
+
+Hair-dryer reference: supplied explicitly by the user. The original GIF is
+archived; the active tap interaction is a newly authored 3D performance.
+Source: https://media1.tenor.com/m/tDDdzOnnc_8AAAAd/turbo-granny-dandadan.gif
+Inspected higher-resolution file: https://media1.tenor.com/m/tDDdzOnnc_8AAAAC/turbo-granny-dandadan.gif
+Reference page: https://tenor.com/view/turbo-granny-dandadan-anime-hair-dryer-maneki-neko-gif-12984121597876466687
+User's corrective reference link: https://tenor.com/pDjzR9BeOaV.gif
+Third-party animation excerpt, not CC0. Used as a visual reference at the
+user's request; reference GIFs are not redistributed in this public release.
+The inspected reference has 13 frames over 0.54 seconds. The six-second
+full-body Blender adaptation adds an introduction and return to rest on the
+velvet cushion. The current browser performance adds a traveling mouth ripple,
+rounded ear tips, taco eating, and interactive walking and paw gestures.
+The correction recreates the extended-arm pose, face, dryer proportions and
+air gap, and swept ears in 3D; it does not reproduce the animation pixel for pixel.
+
+Three.js: https://github.com/mrdoob/three.js (MIT).
+Vite: https://github.com/vitejs/vite (MIT).
+Outfit typeface: https://github.com/Outfitio/Outfit-Fonts (SIL Open Font License 1.1).
+Redistributed Three.js and Outfit license texts accompany this release in
+THIRD_PARTY_LICENSES.txt. Build-tool licenses remain with the private sources.
+
+Public project destinations:
+FQCNN: https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN
+DRDO: https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation
+QOP: https://github.com/Prithvi8706/quantum_option_pricing
+RemitProof: https://github.com/Prithvi8706/RemitProof
+QHD: private project label only; private repository contents are not published.

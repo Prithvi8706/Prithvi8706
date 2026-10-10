@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Multiplayer-QHD-Game",
+    "short": "QHD",
+    "url": "https://github.com/Prithvi8706/Multiplayer-QHD-Game",
+    "description": "Private project.",
+    "stars": 1,
+    "shape": "dice",
+    "private": true
+  },
+  {
+    "name": "Fully-Quantum-Native-QCNN",
+    "short": "FQCNN",
+    "url": "https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN",
+    "description": "Quantum image classification with coherent unitary pooling and a single terminal measurement.",
+    "stars": 1,
+    "shape": "knot",
+    "private": false
+  },
+  {
+    "name": "Real-Time-Ionospheric-Geolocation",
+    "short": "DRDO",
+    "url": "https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation",
+    "description": "HF signal geolocation using ionospheric models and Gaussian-process corrections.",
+    "stars": 1,
+    "shape": "signal",
+    "private": false
+  },
+  {
+    "name": "quantum_option_pricing",
+    "short": "QOP",
+    "url": "https://github.com/Prithvi8706/quantum_option_pricing",
+    "description": "Encoding-aware quantum option pricing, amplitude estimation, and classical comparisons.",
+    "stars": 1,
+    "shape": "coin",
+    "private": false
+  },
+  {
+    "name": "RemitProof",
+    "short": "RemitProof",
+    "url": "https://github.com/Prithvi8706/RemitProof",
+    "description": "Read-only financial controls for cross-border payment exceptions, with evidence investigation and deterministic proof checks.",
+    "stars": 1,
+    "shape": "shield",
+    "private": false
+  }
+]

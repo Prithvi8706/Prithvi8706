@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#19171c" />
+    <meta name="description" content="Meet Prithvi Raghu's lucky-cat mascot. An interactive Blender character and a little room for quantum projects." />
+    <title>Prithvi's mascot room</title>
+    <link rel="icon" href="data:," />
+    <script type="module" crossorigin src="./assets/index-zWJ8GOMy.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/three-Bb3fFQBe.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-BYVr3Dna.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#project-links">Skip to projects</a>
+    <main class="room" id="room">
+      <header class="masthead">
+        <a class="signature" href="https://github.com/Prithvi8706" aria-label="Prithvi Raghu on GitHub">Prithvi Raghu<span>Quantum, code, and a little chaos.</span></a>
+        <nav aria-label="Profile links">
+          <a href="https://prithviraghu.vercel.app/">Portfolio <span aria-hidden="true">↗</span></a>
+          <a href="https://github.com/Prithvi8706">GitHub <span aria-hidden="true">↗</span></a>
+        </nav>
+      </header>
+
+      <section class="stage" id="stage" aria-labelledby="room-title">
+        <div class="scene-heading">
+          <h1 id="room-title" class="sr-only">Mascot playground</h1>
+          <p>Snack first. Tap her to explore, then guide her with your cursor.</p>
+        </div>
+        <div class="scene-viewport" id="scene-viewport">
+          <canvas id="scene" aria-label="A lucky cat eats a taco on her velvet cushion. Tap her to put it away and hop down, then move your cursor or tap the floor to guide her. Use the hairdryer button for her performance."></canvas>
+          <div class="fallback" id="fallback">
+            <img src="./assets/cat-still.png?v=lowered-arms-v019" width="960" height="640" alt="Prithvi's lucky-cat mascot on her burgundy velvet cushion" fetchpriority="high" />
+          </div>
+          <div class="project-layer" id="project-links" role="navigation" aria-label="Starred GitHub projects"></div>
+          <p class="loading-note" id="loading-note" role="status">The cat is getting comfortable…</p>
+        </div>
+        <div class="stage-controls">
+          <button class="motion-button" id="explore" type="button" disabled>Invite her to explore</button>
+          <button class="hairdryer-button" id="hairdryer" type="button" disabled><span class="button-mark" aria-hidden="true">↗</span> Play hairdryer scene</button>
+          <p class="response" id="response" aria-live="polite">She has opinions.</p>
+          <button class="motion-button" id="motion-toggle" type="button" aria-pressed="false">Pause motion</button>
+        </div>
+      </section>
+
+      <footer class="room-footer">
+        <p>Quantum algorithms, machine learning,<br />and scientific software.</p>
+        <p class="projects-hint">Select a velvet object to explore a project.</p>
+        <a href="https://www.blender.org/">Made in Blender <span aria-hidden="true">↗</span></a>
+      </footer>
+      <noscript><p class="noscript">This room needs JavaScript for the cat's reactions. <a href="https://github.com/Prithvi8706?tab=repositories">Browse Prithvi's projects on GitHub.</a></p></noscript>
+    </main>
+  </body>
+</html>
