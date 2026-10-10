@@ -13,7 +13,7 @@
 
 <p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-static-60a0a4790f07.svg" /><img src=".github/assets/readme-aura-hero-8329a19899e6.svg" width="860" alt="Prithvi Raghu. Python, TypeScript, Jupyter Notebook, HTML" /></picture></p>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-static-145692bc9d46.svg" /><img src=".github/assets/readme-aura-stats-7493bec4c34a.svg" width="860" alt="14 public repos; 4 stars; 822 commits in public default-branch history." /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-static-6f6034caa59a.svg" /><img src=".github/assets/readme-aura-stats-3b88aa6fe746.svg" width="860" alt="14 public repos; 4 stars; 824 commits in public default-branch history." /></picture></p>
 
 <p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-languages-static-8e3dcfed0184.svg" /><img src=".github/assets/readme-aura-languages-dc1368835efc.svg" width="860" alt="Languages: Python, TypeScript, Jupyter Notebook, HTML, Yacc" /></picture></p>
 
