@@ -21,6 +21,15 @@ reduced-motion image; the original painting and capture tools remain private.
 The generation prompt and reproducible capture settings are retained in
 docs/living-backgrounds-v032.md in the private development repository.
 
+README eclipse edition v033, October 11, 2026: readme-eclipse-v033.webp is
+new original scenery generated with the built-in image generation tool.
+A huge black eclipse, scarlet corona and layered Japanese city replace the
+quieter README plate. Local cloud movement and luminosity moving along the
+painted corona are authored in Canvas and baked into the GIF. The approved
+cat frames, displayed scale and six-second hairdryer acting are unchanged.
+Original generation prompt and capture details: docs/readme-eclipse-v033.md
+in the private source repository. Earlier editions remain saved.
+
 Midnight gallery wall art: four original supernatural background illustrations
 generated for this profile with the built-in image generation tool, October 11,
 2026. Shared atlas: occult-gallery-v030.webp. Dandadan-inspired unofficial fan
