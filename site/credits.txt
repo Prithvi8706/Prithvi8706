@@ -1,11 +1,20 @@
 CAT MASCOT / PLAYGROUND SOURCES
 
+Active environment: Midnight crossing, an original supernatural Japanese city
+matte painting generated with the built-in image generation tool, October 11,
+2026. Asset: midnight-crossing-v031.webp. Dandadan-inspired unofficial fan
+atmosphere. Drifting clouds, circulating eclipse light, luminous threshold arcs,
+ground reflections and rising motes are authored real-time Three.js effects.
+One compressed 206,366-byte WebP, without post-processing or shadow-map passes.
+The complete generation prompt is retained in the private source documentation.
+
 Midnight gallery wall art: four original supernatural background illustrations
 generated for this profile with the built-in image generation tool, October 11,
 2026. Shared atlas: occult-gallery-v030.webp. Dandadan-inspired unofficial fan
 atmosphere; no official frames or posters redistributed. Procedural wall frames,
 lamps, reflected light and dust authored in Three.js. Full prompt retained in
-the private source documentation.
+the private source documentation. Preserved previous artwork; no longer loaded
+by the active environment.
 
 Character: Turbo Granny's lucky-cat form from Dandadan.
 Unofficial fan work requested by the profile owner. No affiliation is claimed.
