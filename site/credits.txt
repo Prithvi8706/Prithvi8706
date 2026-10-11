@@ -1,5 +1,12 @@
 CAT MASCOT / PLAYGROUND SOURCES
 
+Midnight gallery wall art: four original supernatural background illustrations
+generated for this profile with the built-in image generation tool, October 11,
+2026. Shared atlas: occult-gallery-v030.webp. Dandadan-inspired unofficial fan
+atmosphere; no official frames or posters redistributed. Procedural wall frames,
+lamps, reflected light and dust authored in Three.js. Full prompt retained in
+the private source documentation.
+
 Character: Turbo Granny's lucky-cat form from Dandadan.
 Unofficial fan work requested by the profile owner. No affiliation is claimed.
 Character rights remain with their respective owners; this is not a CC0 character.
@@ -38,5 +45,5 @@ Public project destinations:
 FQCNN: https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN
 DRDO: https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation
 QOP: https://github.com/Prithvi8706/quantum_option_pricing
-RemitProof: https://github.com/Prithvi8706/RemitProof
+RemitProof: private project label only; no public repository destination.
 QHD: private project label only; private repository contents are not published.

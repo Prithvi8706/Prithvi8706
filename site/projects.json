@@ -38,10 +38,9 @@
   {
     "name": "RemitProof",
     "short": "RemitProof",
-    "url": "https://github.com/Prithvi8706/RemitProof",
-    "description": "Read-only financial controls for cross-border payment exceptions, with evidence investigation and deterministic proof checks.",
+    "description": "Private project.",
     "stars": 1,
     "shape": "shield",
-    "private": false
+    "private": true
   }
 ]
