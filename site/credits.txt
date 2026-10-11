@@ -51,6 +51,38 @@ and the dark interactive playground are preserved. The source plate and
 capture tools remain private; only baked GIF/PNG assets are exported.
 Exact prompt, asset provenance and capture notes: docs/readme-daylight-v035.md.
 
+README electrical daylight edition v036, October 11, 2026: the built-in image
+generation tool edited the daylight plate into a stronger cobalt/gold scene,
+with reference-based fan-art interpretations of Kami High and the Ayase house.
+The school facade and house silhouette are based on anime screenshots; these
+reference images are not redistributed. The combined vista is an artistic
+composition, not a canonical geography map. Branching golden light moves on
+a six-second cycle while the architecture remains still. Character acting,
+size and the interactive playground are preserved.
+School reference: https://dandadan.fandom.com/wiki/Kami_High
+House reference: https://shadestudios.com/anime-%26-pop-culture/f/dandadan-s2e21---beating-up-and-outsmarting-a-child
+The referenced anime imagery and architectural depictions are not CC0;
+rights remain with their owners. Exact prompt and sources are retained in
+docs/readme-electric-v036.md in the private development repository.
+
+Ayase living room playground v037, October 11, 2026: two new room paintings
+made with the built-in image generation tool, based on anime episode stills.
+Assets: seiko-room-v037.webp and seiko-room-mobile-v037.webp. The familiar
+navy curtains, timber shoji, green-bordered tatami, round fusuma pulls,
+low dining table and television/AV stand guide the adaptation. The open
+floor and camera framing are arranged for the existing interactive mascot;
+this is not a measured or exact canonical floor plan. The phone painting
+keeps the furniture visible in a tall frame. Localized curtain motion,
+tea steam, glass illumination and dust are authored in Three.js shaders.
+The Blender character and established interaction choreography are preserved.
+Official furnishing/detail reference: https://anime-dandadan.com/story/17-2/
+Official episode context: https://anime-dandadan.com/story/ep12/
+Wide living-room episode still: https://ameblo.jp/moody0523/entry-12946320862.html
+No source episode screenshots are redistributed. Unofficial fan adaptation;
+the anime designs remain with their respective rights holders, not CC0.
+Exact prompts, original output paths and validation notes are retained in
+docs/seiko-room-v037.md in the private development repository.
+
 Midnight gallery wall art: four original supernatural background illustrations
 generated for this profile with the built-in image generation tool, October 11,
 2026. Shared atlas: occult-gallery-v030.webp. Dandadan-inspired unofficial fan
