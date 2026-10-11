@@ -11,10 +11,10 @@
   </a>
 </div>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-static-205b9ff0c086.svg" /><img src=".github/assets/readme-aura-hero-37a143e177f1.svg" width="860" alt="Prithvi Raghu. Quantum computing, Scientific modeling, Verified AI &amp; APIs, Systems engineering" /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-static-d2dfec4dacd3.svg" /><img src=".github/assets/readme-aura-hero-c2f9c15f5180.svg" width="860" alt="Prithvi Raghu. Quantum computing, Scientific modeling, Verified AI &amp; APIs, Systems engineering" /></picture></p>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-static-71f33c48bb90.svg" /><img src=".github/assets/readme-aura-stats-36f0b8056ae2.svg" width="860" alt="12 public repos; 2 stars; 594 commits in public default-branch history." /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-static-ed1eee00e43a.svg" /><img src=".github/assets/readme-aura-stats-4e909a600347.svg" width="860" alt="12 public repos; 2 stars; 595 commits in public default-branch history." /></picture></p>
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-skills-static-70a8ee83cf21.svg" /><img src=".github/assets/readme-aura-skills-a67ee858c228.svg" width="860" alt="Built with: Quantum computing: Qiskit, PennyLane, QUBO; ML &amp; experiments: QCNNs, Contextual bandits, Benchmarking; Scientific modeling: HF geolocation, Python, NumPy, SciPy; Verified AI &amp; APIs: FastAPI, Pydantic; Systems engineering: Flex / Bison, Memory allocation, Network simulation; Web &amp; 3D: TypeScript, React" /></picture></p>
+<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-skills-static-e91119097119.svg" /><img src=".github/assets/readme-aura-skills-5b0659cd62ee.svg" width="860" alt="Built with: Quantum computing: Qiskit, PennyLane, QUBO; ML &amp; experiments: QCNNs, Contextual bandits, Benchmarking; Scientific modeling: HF geolocation, Python, NumPy, SciPy; Verified AI &amp; APIs: FastAPI, Pydantic; Systems engineering: Flex / Bison, Memory allocation, Network simulation; Web &amp; 3D: TypeScript, React" /></picture></p>
 
 <p align="center"><sub><a href="https://github.com/collectioneur/readme-aura">powered by readme-aura</a></sub></p>
