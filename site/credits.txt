@@ -8,6 +8,19 @@ ground reflections and rising motes are authored real-time Three.js effects.
 One compressed 206,366-byte WebP, without post-processing or shadow-map passes.
 The complete generation prompt is retained in the private source documentation.
 
+Living-city update, October 11, 2026: smooth cloud advection, a six-car train
+aligned to the illustrated elevated railway, inhabited-window light changes,
+an antenna beacon and the existing saucer's breathing underlight. The moon and
+architecture stay anchored. No additional playground image assets are loaded.
+
+README companion: readme-rooftop-v032.webp, an original panoramic rooftop
+matte painting generated with the built-in image generation tool, October 11,
+2026. Warm architectural details frame the existing Blender cat performance.
+The public README receives baked theme-specific animations and a static
+reduced-motion image; the original painting and capture tools remain private.
+The generation prompt and reproducible capture settings are retained in
+docs/living-backgrounds-v032.md in the private development repository.
+
 Midnight gallery wall art: four original supernatural background illustrations
 generated for this profile with the built-in image generation tool, October 11,
 2026. Shared atlas: occult-gallery-v030.webp. Dandadan-inspired unofficial fan
