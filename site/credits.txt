@@ -131,3 +131,12 @@ DRDO: https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation
 QOP: https://github.com/Prithvi8706/quantum_option_pricing
 RemitProof: private project label only; no public repository destination.
 QHD: private project label only; private repository contents are not published.
+
+README v038 visual refinement (October 11, 2026):
+The v036 reference-based daytime painting is retained. The hanging lantern,
+suspension and local lamp light are omitted in the new offline foreground.
+The existing gold corona gains a smooth three-second localized pulse.
+Profile, stats and repository-evidenced skill cards use authored cobalt/ice
+SVG gradients, fine gold branching paths and filter-free frosted highlights.
+No new external art is used. Cat acting, framing and the Seiko-room playground
+are retained. Previous numbered editions remain in private source history.
