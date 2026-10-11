@@ -41,6 +41,16 @@ Six-second acting, mascot size and the playground stay unchanged. Only baked
 GIF/PNG exports are public; scene sources and tools stay in the private repo.
 Full construction and capture notes: docs/readme-rooftop-v034.md.
 
+README clear-sky edition v035, October 11, 2026: readme-daylight-v035.webp
+was made with the built-in image generation tool by editing the saved v033
+city painting into blue daylight with a pale celestial disk and golden arc.
+The same authored rooftop and Blender cat are rendered under warm sunlight
+and blue sky fill. Golden halo luminosity, delicate sky motion and the lantern
+sway share the existing six-second loop. The mascot's size and performance
+and the dark interactive playground are preserved. The source plate and
+capture tools remain private; only baked GIF/PNG assets are exported.
+Exact prompt, asset provenance and capture notes: docs/readme-daylight-v035.md.
+
 Midnight gallery wall art: four original supernatural background illustrations
 generated for this profile with the built-in image generation tool, October 11,
 2026. Shared atlas: occult-gallery-v030.webp. Dandadan-inspired unofficial fan
