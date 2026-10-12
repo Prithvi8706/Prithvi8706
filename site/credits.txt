@@ -226,3 +226,10 @@ Canvas rush-weave texture with green borders inspired by its existing tatami.
 No external texture or model is used. Cushion geometry/contact points and
 mascot motion are retained. Extra authored SVG fracture networks occupy the
 README card margins and gutters, with existing text masks and motion settings.
+
+README PALE-STONE EDITION v046 - 2026-10-12
+Authored material changes to the existing Three.js rooftop: pale ivory tiles,
+light limestone parapet and coping, with retained joints and physical shadows.
+No new external art or textures. The v044 sky plates, v045 black/gold cushion,
+original Blender mascot performance and camera remain the same. Both GitHub
+theme animations and reduced-motion stills are newly captured at 1173x491.

@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-dark-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v045/turbo-granny-dark-still.png#gh-dark-mode-only" />
-    <img src="assets/mascot-v045/turbo-granny-dark.gif#gh-dark-mode-only" width="860" alt="Open the playground: the lucky cat enjoys her pink hairdryer beneath a pulsing electrical moon, with school and Ayase-house landmarks. Graphite night and gold lightning." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v046/turbo-granny-dark-still.png#gh-dark-mode-only" />
+    <img src="assets/mascot-v046/turbo-granny-dark.gif#gh-dark-mode-only" width="860" alt="Open the playground: the lucky cat enjoys her pink hairdryer beneath a pulsing electrical moon, with school and Ayase-house landmarks. Graphite night and gold lightning." />
   </picture></a>
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-light-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v045/turbo-granny-light-still.png#gh-light-mode-only" />
-    <img src="assets/mascot-v045/turbo-granny-light.gif#gh-light-mode-only" width="860" alt="Open the playground: the lucky cat enjoys her pink hairdryer beneath a pulsing electrical moon, with school and Ayase-house landmarks. Ivory daylight and charcoal fractures." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v046/turbo-granny-light-still.png#gh-light-mode-only" />
+    <img src="assets/mascot-v046/turbo-granny-light.gif#gh-light-mode-only" width="860" alt="Open the playground: the lucky cat enjoys her pink hairdryer beneath a pulsing electrical moon, with school and Ayase-house landmarks. Ivory daylight and charcoal fractures." />
   </picture></a>
 </div>
 
@@ -18,8 +18,8 @@
 
 
 
-<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-dark-static-1ca455b68381.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-stats-dark-d2c02e4cc6fe.svg#gh-dark-mode-only" width="860" alt="12 public repos; 2 stars; 623 commits in public default-branch history." /></picture></a>
-<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-light-static-5627b71a1044.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-stats-light-95a6c45c5808.svg#gh-light-mode-only" width="860" alt="12 public repos; 2 stars; 623 commits in public default-branch history." /></picture></a></p>
+<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-dark-static-0a601b380718.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-stats-dark-fb0faf9c7b07.svg#gh-dark-mode-only" width="860" alt="12 public repos; 2 stars; 627 commits in public default-branch history." /></picture></a>
+<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-light-static-afceab79ee62.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-stats-light-5419493a048a.svg#gh-light-mode-only" width="860" alt="12 public repos; 2 stars; 627 commits in public default-branch history." /></picture></a></p>
 
 
 
