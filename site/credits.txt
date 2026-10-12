@@ -192,3 +192,18 @@ The local v041 Bleach loop listed above remains the active programme.
 The separately requested https://youtu.be/7RIb93r3cuM excerpt, 0:00-0:59,
 was tested through YouTube's official embedded player but returned error 150.
 No media from that upload is downloaded or redistributed in this release.
+
+
+SEIKO, LOCAL TV AND NIGHT SKY v044 - 2026-10-12
+Room artwork: built-in imagegen edits of v042; refined clothed adult Seiko
+shoulders, white vest, restrained skin highlights and natural hip proportions.
+The README dark plate is an imagegen night-grade edit with near-black clouds
+and retained gold lightning. Light edition and mascot performance are retained.
+TV source: user-supplied Video Project 2 (1).mp4, an intentionally shortened
+54.10-second edit associated with https://youtu.be/7RIb93r3cuM.
+The user explicitly requested their full supplied edit, not a 59-second trim.
+Runtime: bleach-tv-v044.mp4; 640x360 H.264/AAC, 30 fps, 4,010,826 bytes.
+The file loops in full, muted by default; pause/reduced motion stop playback.
+BLEACH footage and characters remain copyrighted to their respective rights
+holders; this media is not CC0 and is not covered by the source-code license.
+This supersedes the v041 programme. Earlier assets are retained for rollback.
