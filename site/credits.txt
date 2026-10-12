@@ -207,3 +207,22 @@ The file loops in full, muted by default; pause/reduced motion stop playback.
 BLEACH footage and characters remain copyrighted to their respective rights
 holders; this media is not CC0 and is not covered by the source-code license.
 This supersedes the v041 programme. Earlier assets are retained for rollback.
+
+
+SEIKO SILHOUETTE REFINEMENT v045 - 2026-10-12
+Built-in imagegen edits of the existing v044 landscape and phone paintings.
+The clothed adult figure has a slimmer hip/thigh contour, fitted ribbed
+white vest and warmer, clearer shoulder highlights. The reclining pose,
+room composition and TV bezel remain in place. Runtime artwork:
+seiko-room-v045.webp and seiko-room-mobile-v045.webp.
+The full supplied 54.10-second bleach-tv-v044.mp4 is retained unchanged.
+These are generated fan-art edits; existing character rights apply.
+
+CUSHION FINISHES AND CARD LIGHTNING v045 - 2026-10-12
+Authored Three.js material and embroidery variants on the original Blender
+cushion. The README uses black velvet, two scalloped gold lace threads and
+three fine branching lightning motifs. The playground uses a deterministic
+Canvas rush-weave texture with green borders inspired by its existing tatami.
+No external texture or model is used. Cushion geometry/contact points and
+mascot motion are retained. Extra authored SVG fracture networks occupy the
+README card margins and gutters, with existing text masks and motion settings.
