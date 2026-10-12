@@ -140,3 +140,18 @@ Profile, stats and repository-evidenced skill cards use authored cobalt/ice
 SVG gradients, fine gold branching paths and filter-free frosted highlights.
 No new external art is used. Cat acting, framing and the Seiko-room playground
 are retained. Previous numbered editions remain in private source history.
+
+Seiko watching television, playground v040 (October 12, 2026):
+Reference-based generated illustration edits of the existing v037 room.
+Official character reference: https://anime-dandadan.com/en/character/
+Official character art: https://anime-dandadan.com/_assets/images/char/detail/seiko_pc.png
+Official episode 3 still: https://anime-dandadan.com/wp/wp-content/uploads/2024/10/1-2.jpg
+Episode page: https://anime-dandadan.com/story/ep03/
+Seiko's swept-up white hair, red glasses and face are reference-based; the
+pale-yellow cardigan and charcoal lounge trousers are an at-home costume
+adaptation. The side-lying supported-head pose is newly composed for this room.
+Landscape and phone images are generated fan-art adaptations, not CC0 and not
+redistributed reference frames. Character rights remain with their owners.
+New runtime effects: localized cardigan breathing, quiet lake movement within
+the TV, and restrained screen-light reflection. The figure is illustrated;
+the interactive mascot remains the existing Blender character.
