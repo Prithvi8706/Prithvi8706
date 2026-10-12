@@ -18,8 +18,8 @@
 
 
 
-<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-dark-static-0a601b380718.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-stats-dark-fb0faf9c7b07.svg#gh-dark-mode-only" width="860" alt="12 public repos; 2 stars; 627 commits in public default-branch history." /></picture></a>
-<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-light-static-afceab79ee62.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-stats-light-5419493a048a.svg#gh-light-mode-only" width="860" alt="12 public repos; 2 stars; 627 commits in public default-branch history." /></picture></a></p>
+<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-dark-static-86423b4d9bd9.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-stats-dark-e2cb7bf3015e.svg#gh-dark-mode-only" width="860" alt="12 public repos; 2 stars; 628 commits in public default-branch history." /></picture></a>
+<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-light-static-d75c70d6b9f6.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-stats-light-679b34acf0d6.svg#gh-light-mode-only" width="860" alt="12 public repos; 2 stars; 628 commits in public default-branch history." /></picture></a></p>
 
 
 
