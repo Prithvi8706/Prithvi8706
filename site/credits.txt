@@ -176,3 +176,19 @@ covered by the source-code license. Tenor availability is not a license grant.
 Runtime derivative: bleach-tv-v041.webp, 136 frames at 30 fps, 160x90 each.
 No audio or full episode is included. Playback pauses with the room and
 remains still under reduced motion. The source URL is retained for attribution.
+
+
+README AND ROOM REFINEMENT v042 - 2026-10-12
+The v036 landscape was edited with built-in imagegen into graphite/gold and
+ivory/charcoal editions. The school, hillside house, moon and town composition
+are retained. These are generated fan-art adaptations, not official frames.
+The Blender mascot performance and camera are retained; Three.js authors the
+shared-lit foreground. Browser Canvas animates the electrical pigment only.
+README cards are authored filter-free SVG glass and seeded fracture geometry,
+with live GitHub data and evidence-backed skills rendered by readme-aura.
+Room artwork v042 refines the fully clothed pelvis and thighs of the existing
+adult Seiko illustration. The TV and furniture positions remain unchanged.
+The local v041 Bleach loop listed above remains the active programme.
+The separately requested https://youtu.be/7RIb93r3cuM excerpt, 0:00-0:59,
+was tested through YouTube's official embedded player but returned error 150.
+No media from that upload is downloaded or redistributed in this release.
