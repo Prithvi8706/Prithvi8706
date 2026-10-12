@@ -155,3 +155,24 @@ redistributed reference frames. Character rights remain with their owners.
 New runtime effects: localized cardigan breathing, quiet lake movement within
 the TV, and restrained screen-light reflection. The figure is illustrated;
 the interactive mascot remains the existing Blender character.
+
+
+SEIKO AND TELEVISION UPDATE v041 - 2026-10-12
+The room illustration was edited with built-in imagegen: Seiko faces the TV,
+back toward the viewer, wearing a white vest, grey arm warmers and beige waist
+wrap. The previous v040 room remains in the private source repository.
+Costume reference (reference only, not shipped):
+https://www.pinterest.com/pin/dandadan--894597913479489569/
+https://i.pinimg.com/736x/3a/ca/a3/3acaa3df0735c059421de3e39a98a519.jpg
+Seiko identity references remain the official Dandadan sources listed above.
+
+The TV plays a silent 4.53-second Ichigo-versus-Yhwach excerpt from BLEACH:
+Thousand-Year Blood War, obtained from this user-requested Tenor fight loop:
+https://tenor.com/view/ichigo-yhwach-ichigo-vs-yhwach-tybw-bleach-gif-3481041725954184309
+Media source: https://media.tenor.com/ME8lAaPP1HUAAAPo/ichigo-yhwach.mp4
+Tenor uploader: Sstanfx. BLEACH characters and animation belong to their
+respective rights holders; this excerpt is copyrighted, not CC0 and not
+covered by the source-code license. Tenor availability is not a license grant.
+Runtime derivative: bleach-tv-v041.webp, 136 frames at 30 fps, 160x90 each.
+No audio or full episode is included. Playback pauses with the room and
+remains still under reduced motion. The source URL is retained for attribution.
