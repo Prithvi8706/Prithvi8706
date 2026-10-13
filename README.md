@@ -1,31 +1,27 @@
-<!-- GitHub dark/gold source; prepare.mjs also derives the matching ivory/charcoal edition. -->
+**Prithvi Raghu**. I study computer science at VIT Vellore and research quantum machine learning and scientific computing.
 
-<!-- Edit this source; build-time GitHub evidence supplies the profile, stats and skills. -->
+I model quantum convolutional networks and HF radio propagation through the ionosphere. I also evaluate decision rules for network control and memory allocation, comparing learned or adaptive methods against established baselines.
+
+**Selected work**
+
+* [FQCNN](https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN): co-authored manuscript, unitary pooling and reproducible classical simulations across four classification tasks.
+* [HF geolocation](https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation): hybrid ionospheric models and Gaussian-process correction, evaluated with simulated emitter geometry.
+* [SafeSlice](https://github.com/Prithvi8706/SafeSlice): contextual-bandit network slicing, with simulator and Open vSwitch experiments documenting failed policy transfer.
+* [Adaptive allocator](https://github.com/Prithvi8706/Self-Tuning-Best-Fit-Allocator): paired benchmarks and adversarial cases showing when adaptive allocation improves on or loses to Best Fit.
+
+[Email](mailto:prithviraghu080706@gmail.com) | [Portfolio](https://prithviraghu.vercel.app/)
 
 <div align="center">
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-dark-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v046/turbo-granny-dark-still.png#gh-dark-mode-only" />
-    <img src="assets/mascot-v046/turbo-granny-dark.gif#gh-dark-mode-only" width="860" alt="Open the playground: the lucky cat enjoys her pink hairdryer beneath a pulsing electrical moon, with school and Ayase-house landmarks. Graphite night and gold lightning." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v046/turbo-granny-dark-still-d9488d1572a3.png#gh-dark-mode-only" />
+    <img src="assets/mascot-v046/turbo-granny-dark-b8d6df6ee1ee.gif#gh-dark-mode-only" width="860" alt="Turbo Granny holds a pink hairdryer on a black cushion with gold lace, on a pale tiled rooftop. A gold electrical moon lights the night sky." />
   </picture></a>
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-light-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v046/turbo-granny-light-still.png#gh-light-mode-only" />
-    <img src="assets/mascot-v046/turbo-granny-light.gif#gh-light-mode-only" width="860" alt="Open the playground: the lucky cat enjoys her pink hairdryer beneath a pulsing electrical moon, with school and Ayase-house landmarks. Ivory daylight and charcoal fractures." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v046/turbo-granny-light-still-96b01eff9e2f.png#gh-light-mode-only" />
+    <img src="assets/mascot-v046/turbo-granny-light-c30cdfb1d234.gif#gh-light-mode-only" width="860" alt="Turbo Granny holds a pink hairdryer on a black cushion with gold lace, on a pale tiled rooftop. A charcoal electrical moon hangs in an ivory daylight sky." />
   </picture></a>
 </div>
 
-<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-dark-static-999a81a826a3.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-hero-dark-430d4c97a172.svg#gh-dark-mode-only" width="860" alt="Prithvi Raghu. Quantum computing, Scientific modeling, Verified AI &amp; APIs, Systems engineering" /></picture></a>
-<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-hero-light-static-d2a7afab9465.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-hero-light-ab0a5ca3c426.svg#gh-light-mode-only" width="860" alt="Prithvi Raghu. Quantum computing, Scientific modeling, Verified AI &amp; APIs, Systems engineering" /></picture></a></p>
+[Enter the playground](https://prithvi8706.github.io/Prithvi8706/)
 
-
-
-<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-dark-static-86423b4d9bd9.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-stats-dark-e2cb7bf3015e.svg#gh-dark-mode-only" width="860" alt="12 public repos; 2 stars; 628 commits in public default-branch history." /></picture></a>
-<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-stats-light-static-d75c70d6b9f6.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-stats-light-679b34acf0d6.svg#gh-light-mode-only" width="860" alt="12 public repos; 2 stars; 628 commits in public default-branch history." /></picture></a></p>
-
-
-
-<p align="center"><a href="#gh-dark-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-skills-dark-static-6c44394eebdd.svg#gh-dark-mode-only" /><img src=".github/assets/readme-aura-skills-dark-f0ba195d8dae.svg#gh-dark-mode-only" width="860" alt="Built with: Quantum computing: Qiskit, PennyLane, QUBO; ML &amp; experiments: QCNNs, Contextual bandits, Benchmarking; Scientific modeling: HF geolocation, Python, NumPy, SciPy; Verified AI &amp; APIs: FastAPI, Pydantic; Systems engineering: Flex / Bison, Memory allocation, Network simulation; Web &amp; 3D: TypeScript, React" /></picture></a>
-<a href="#gh-light-mode-only"><picture><source media="(prefers-reduced-motion: reduce)" srcset=".github/assets/readme-aura-skills-light-static-d9b8aaa8baa1.svg#gh-light-mode-only" /><img src=".github/assets/readme-aura-skills-light-75f73785c7cb.svg#gh-light-mode-only" width="860" alt="Built with: Quantum computing: Qiskit, PennyLane, QUBO; ML &amp; experiments: QCNNs, Contextual bandits, Benchmarking; Scientific modeling: HF geolocation, Python, NumPy, SciPy; Verified AI &amp; APIs: FastAPI, Pydantic; Systems engineering: Flex / Bison, Memory allocation, Network simulation; Web &amp; 3D: TypeScript, React" /></picture></a></p>
-
-
-
-<p align="center"><sub><a href="https://github.com/collectioneur/readme-aura">powered by readme-aura</a></sub></p>
+<sub>powered by [readme-aura](https://github.com/collectioneur/readme-aura)</sub>
