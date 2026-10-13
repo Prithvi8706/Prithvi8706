@@ -3,10 +3,10 @@
     "name": "Multiplayer-QHD-Game",
     "short": "QHD",
     "url": "https://github.com/Prithvi8706/Multiplayer-QHD-Game",
-    "description": "Private project.",
+    "description": "Multiplayer quantum games, equilibrium analysis and recorded IBM Heron experiments.",
     "stars": 1,
     "shape": "dice",
-    "private": true
+    "private": false
   },
   {
     "name": "Fully-Quantum-Native-QCNN",
@@ -30,7 +30,7 @@
     "name": "quantum_option_pricing",
     "short": "QOP",
     "url": "https://github.com/Prithvi8706/quantum_option_pricing",
-    "description": "Encoding-aware quantum option pricing, amplitude estimation, and classical comparisons.",
+    "description": "Encoding comparisons for Asian-basket option pricing, with reproducible logical-resource evidence and a manuscript draft.",
     "stars": 1,
     "shape": "coin",
     "private": false
