@@ -1,5 +1,7 @@
 [Read papers and code](#user-content-papers-and-code) · [Email](mailto:prithviraghu080706@gmail.com)
 
+Evidence: [QHD](https://github.com/Prithvi8706/Multiplayer-QHD-Game/blob/main/paper/qhd.pdf) · [FQCNN](https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN/blob/main/paper/fqcnn.pdf) · [QOP](https://github.com/Prithvi8706/quantum_option_pricing/blob/main/manuscript/2026-09-22/main.md) · [HF](https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation/blob/main/models/hybrid_model.py)
+
 <div align="center">
   <a href="#gh-dark-mode-only"><picture>
     <source media="(prefers-reduced-motion: reduce) and (max-width: 345px)" srcset=".github/assets/readme-aura-research-dark-w240-static-fc9b1afa8b5e.svg#gh-dark-mode-only" />
