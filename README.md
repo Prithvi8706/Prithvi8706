@@ -1,31 +1,31 @@
 <div align="center">
   <a href="https://prithviraghu.vercel.app/#gh-dark-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 402px)" srcset=".github/assets/readme-aura-research-dark-w320-static-48e2ae4642a7.svg#gh-dark-mode-only" />
-    <source media="(max-width: 402px)" srcset=".github/assets/readme-aura-research-dark-w320-0a3f6c83704c.svg#gh-dark-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 403px) and (max-width: 482px), (prefers-reduced-motion: reduce) and (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-dark-w400-static-f085c72e12fe.svg#gh-dark-mode-only" />
-    <source media="(min-width: 403px) and (max-width: 482px), (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-dark-w400-25806638520c.svg#gh-dark-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 483px) and (max-width: 562px), (prefers-reduced-motion: reduce) and (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-dark-w480-static-ad0070f43d0d.svg#gh-dark-mode-only" />
-    <source media="(min-width: 483px) and (max-width: 562px), (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-dark-w480-ca274b104305.svg#gh-dark-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 563px) and (max-width: 682px), (prefers-reduced-motion: reduce) and (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-dark-w600-static-97a4e369442c.svg#gh-dark-mode-only" />
-    <source media="(min-width: 563px) and (max-width: 682px), (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-dark-w600-7e8a9e79499c.svg#gh-dark-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 683px) and (max-width: 767px), (prefers-reduced-motion: reduce) and (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-dark-w720-static-179926c25dd4.svg#gh-dark-mode-only" />
-    <source media="(min-width: 683px) and (max-width: 767px), (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-dark-w720-af0db80f3c80.svg#gh-dark-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 1155px)" srcset=".github/assets/readme-aura-research-dark-w860-static-54d9b33a3b70.svg#gh-dark-mode-only" />
-    <img src=".github/assets/readme-aura-research-dark-w860-38d457303d7f.svg#gh-dark-mode-only" width="860" alt="Black liquid glass with branching gold lightning frames the profile and four research summaries. Open the portfolio, or use the paper links and text version below." />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 402px)" srcset=".github/assets/readme-aura-research-dark-w320-static-ad332e3148ff.svg#gh-dark-mode-only" />
+    <source media="(max-width: 402px)" srcset=".github/assets/readme-aura-research-dark-w320-4af677e9f7f8.svg#gh-dark-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 403px) and (max-width: 482px), (prefers-reduced-motion: reduce) and (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-dark-w400-static-d072a738423d.svg#gh-dark-mode-only" />
+    <source media="(min-width: 403px) and (max-width: 482px), (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-dark-w400-9123feaa7e6f.svg#gh-dark-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 483px) and (max-width: 562px), (prefers-reduced-motion: reduce) and (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-dark-w480-static-10842246e0e5.svg#gh-dark-mode-only" />
+    <source media="(min-width: 483px) and (max-width: 562px), (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-dark-w480-d0377e16b87d.svg#gh-dark-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 563px) and (max-width: 682px), (prefers-reduced-motion: reduce) and (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-dark-w600-static-b23beb2f7eb8.svg#gh-dark-mode-only" />
+    <source media="(min-width: 563px) and (max-width: 682px), (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-dark-w600-7cfde744578a.svg#gh-dark-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 683px) and (max-width: 767px), (prefers-reduced-motion: reduce) and (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-dark-w720-static-ff045adcc0ec.svg#gh-dark-mode-only" />
+    <source media="(min-width: 683px) and (max-width: 767px), (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-dark-w720-a820315ec790.svg#gh-dark-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 1155px)" srcset=".github/assets/readme-aura-research-dark-w860-static-20ff1a446477.svg#gh-dark-mode-only" />
+    <img src=".github/assets/readme-aura-research-dark-w860-b6fdcd66975c.svg#gh-dark-mode-only" width="860" alt="Black liquid glass with branching gold lightning frames the profile and four research summaries. Open the portfolio, or use the paper links and text version below." />
   </picture></a>
   <a href="https://prithviraghu.vercel.app/#gh-light-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce) and (max-width: 402px)" srcset=".github/assets/readme-aura-research-light-w320-static-d3189b29708a.svg#gh-light-mode-only" />
-    <source media="(max-width: 402px)" srcset=".github/assets/readme-aura-research-light-w320-614780c5c8e6.svg#gh-light-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 403px) and (max-width: 482px), (prefers-reduced-motion: reduce) and (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-light-w400-static-6b66e5451c0b.svg#gh-light-mode-only" />
-    <source media="(min-width: 403px) and (max-width: 482px), (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-light-w400-99999c22b9a7.svg#gh-light-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 483px) and (max-width: 562px), (prefers-reduced-motion: reduce) and (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-light-w480-static-2721744c3dc0.svg#gh-light-mode-only" />
-    <source media="(min-width: 483px) and (max-width: 562px), (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-light-w480-0fac329fb3dc.svg#gh-light-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 563px) and (max-width: 682px), (prefers-reduced-motion: reduce) and (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-light-w600-static-acc852c5423c.svg#gh-light-mode-only" />
-    <source media="(min-width: 563px) and (max-width: 682px), (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-light-w600-edb704d25a6e.svg#gh-light-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 683px) and (max-width: 767px), (prefers-reduced-motion: reduce) and (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-light-w720-static-36f5b46024d4.svg#gh-light-mode-only" />
-    <source media="(min-width: 683px) and (max-width: 767px), (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-light-w720-c01ac1887754.svg#gh-light-mode-only" />
-    <source media="(prefers-reduced-motion: reduce) and (min-width: 1155px)" srcset=".github/assets/readme-aura-research-light-w860-static-ab229d38a8fa.svg#gh-light-mode-only" />
-    <img src=".github/assets/readme-aura-research-light-w860-1bfd9db14daf.svg#gh-light-mode-only" width="860" alt="Ivory liquid glass with branching charcoal lightning frames the profile and four research summaries. Open the portfolio, or use the paper links and text version below." />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 402px)" srcset=".github/assets/readme-aura-research-light-w320-static-2ab988c23164.svg#gh-light-mode-only" />
+    <source media="(max-width: 402px)" srcset=".github/assets/readme-aura-research-light-w320-c70adbc0aff4.svg#gh-light-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 403px) and (max-width: 482px), (prefers-reduced-motion: reduce) and (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-light-w400-static-bdcc525fded0.svg#gh-light-mode-only" />
+    <source media="(min-width: 403px) and (max-width: 482px), (min-width: 768px) and (max-width: 770px)" srcset=".github/assets/readme-aura-research-light-w400-6760d450b3cb.svg#gh-light-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 483px) and (max-width: 562px), (prefers-reduced-motion: reduce) and (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-light-w480-static-a0b6dcea5bb2.svg#gh-light-mode-only" />
+    <source media="(min-width: 483px) and (max-width: 562px), (min-width: 771px) and (max-width: 850px)" srcset=".github/assets/readme-aura-research-light-w480-7baf4d4942ba.svg#gh-light-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 563px) and (max-width: 682px), (prefers-reduced-motion: reduce) and (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-light-w600-static-8f1271485441.svg#gh-light-mode-only" />
+    <source media="(min-width: 563px) and (max-width: 682px), (min-width: 851px) and (max-width: 1034px)" srcset=".github/assets/readme-aura-research-light-w600-1ed39cf994b8.svg#gh-light-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 683px) and (max-width: 767px), (prefers-reduced-motion: reduce) and (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-light-w720-static-42b49926c066.svg#gh-light-mode-only" />
+    <source media="(min-width: 683px) and (max-width: 767px), (min-width: 1035px) and (max-width: 1154px)" srcset=".github/assets/readme-aura-research-light-w720-1379b3be4b30.svg#gh-light-mode-only" />
+    <source media="(prefers-reduced-motion: reduce) and (min-width: 1155px)" srcset=".github/assets/readme-aura-research-light-w860-static-7b185d290334.svg#gh-light-mode-only" />
+    <img src=".github/assets/readme-aura-research-light-w860-9978ee8347f1.svg#gh-light-mode-only" width="860" alt="Ivory liquid glass with branching charcoal lightning frames the profile and four research summaries. Open the portfolio, or use the paper links and text version below." />
   </picture></a>
 </div>
 
@@ -41,7 +41,7 @@
 <details>
 <summary>Read the research text without images</summary>
 
-**Prithvi Raghu**. I study computer science at VIT Vellore and research quantum machine learning and scientific computing.
+**Prithvi Raghu**. I research quantum machine learning and scientific computing.
 
 I build quantum convolutional networks, study multiplayer quantum games and compare circuit encodings for option pricing. I also model HF radio propagation and evaluate ionospheric corrections for emitter geolocation.
 
