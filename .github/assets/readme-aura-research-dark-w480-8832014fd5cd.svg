@@ -12,12 +12,12 @@
     <mask id="text-clearance"><rect width="480" height="1991" fill="black"/><rect width="480" height="1991" fill="url(#edge-clearance)"/><rect width="480" height="1991" fill="url(#cap-clearance)"/><rect x="20" y="287" width="440" height="414.95" rx="18" fill="black"/><rect x="20" y="703.95" width="440" height="414.95" rx="18" fill="black"/><rect x="20" y="1120.9" width="440" height="456.45" rx="18" fill="black"/><rect x="20" y="1579.35" width="440" height="391.45" rx="18" fill="black"/></mask>
   </defs>
   <style>
-    .wave { transform-box:fill-box; transform-origin:center; animation:flow 23s ease-in-out 2 alternate forwards; }
+    .wave { transform-box:fill-box; transform-origin:center; animation:flow 23s ease-in-out infinite alternate; }
     .wave.second { animation-duration:31s;animation-delay:-13s;animation-direction:alternate-reverse; }
     .bolt { animation:pulse0 11s ease-in-out infinite; } .b1 {animation-name:pulse1;} .b2 {animation-name:pulse2;}
-    .pulse { animation:run 4s linear 2; }
-    .precess { animation:precess 7s ease-in-out 1; }
-    .beacon { transform-box:fill-box; transform-origin:center; animation:beacon 2.4s ease-out 2 both; }
+    .pulse { animation:run 4s linear infinite; }
+    .precess { animation:precess 7s ease-in-out infinite; }
+    .beacon { transform-box:fill-box; transform-origin:center; animation:beacon 2.4s ease-out infinite both; }
     @keyframes flow {from {transform:translateX(-36px);opacity:.55} to {transform:translateX(62px);opacity:1}}
     @keyframes pulse0 {0%,100%{opacity:.35} 23%{opacity:1} 47%{opacity:.4} 79%{opacity:.82}}
     @keyframes pulse1 {0%,100%{opacity:.65} 26%{opacity:.32} 58%{opacity:1} 82%{opacity:.47}}
