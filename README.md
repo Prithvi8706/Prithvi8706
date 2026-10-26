@@ -54,12 +54,12 @@
 
 <div align="center">
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-dark-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v052/turbo-granny-dark-still-9219a4623b90.png#gh-dark-mode-only" />
-    <img src="assets/mascot-v052/turbo-granny-dark-a73d3550b6be.gif#gh-dark-mode-only" width="860" alt="3D cat mascot Turbo Granny holds a red hairdryer on a black cushion with gold lace, on a pale tiled rooftop. Gold outlines trace the school, hillside houses and bridge beneath an electrical eclipse. Open the interactive playground." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v061/turbo-granny-dark-still-6b4a3a81ca41.png#gh-dark-mode-only" />
+    <img src="assets/mascot-v061/turbo-granny-dark-b2b572b4de4e.gif#gh-dark-mode-only" width="860" alt="3D cat mascot Turbo Granny holds a red hairdryer on a black cushion with emerald lace, on a pale tiled rooftop. Emerald outlines trace the school, hillside houses and bridge beneath an electrical eclipse. Open the interactive playground." />
   </picture></a>
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-light-mode-only"><picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v052/turbo-granny-light-still-0978c7ebbb3a.png#gh-light-mode-only" />
-    <img src="assets/mascot-v052/turbo-granny-light-d8776c93ea93.gif#gh-light-mode-only" width="860" alt="3D cat mascot Turbo Granny holds a red hairdryer on a black cushion with gold lace, on a pale tiled rooftop. Fine charcoal outlines trace the school, hillside houses and bridge beneath an electrical eclipse in a white sky. Open the interactive playground." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mascot-v061/turbo-granny-light-still-ad4c0c0d61c7.png#gh-light-mode-only" />
+    <img src="assets/mascot-v061/turbo-granny-light-fa50e807c966.gif#gh-light-mode-only" width="860" alt="3D cat mascot Turbo Granny holds a red hairdryer on a black cushion with emerald lace, on a pale tiled rooftop. Fine charcoal outlines trace the school, hillside houses and bridge beneath an electrical eclipse in a white sky. Open the interactive playground." />
   </picture></a>
 </div>
 
@@ -70,8 +70,8 @@
 </div>
 
 <p align="center">
-  <a href="assets/mascot-v052/turbo-granny-dark-still-9219a4623b90.png#gh-dark-mode-only">View the mascot as a still image</a>
-  <a href="assets/mascot-v052/turbo-granny-light-still-0978c7ebbb3a.png#gh-light-mode-only">View the mascot as a still image</a>
+  <a href="assets/mascot-v061/turbo-granny-dark-still-6b4a3a81ca41.png#gh-dark-mode-only">View the mascot as a still image</a>
+  <a href="assets/mascot-v061/turbo-granny-light-still-ad4c0c0d61c7.png#gh-light-mode-only">View the mascot as a still image</a>
 </p>
 
 <div align="center">
