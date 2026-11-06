@@ -62,26 +62,3 @@
     <img src="assets/mascot-v061/turbo-granny-light-fa50e807c966.gif#gh-light-mode-only" width="860" alt="3D cat mascot Turbo Granny holds a red hairdryer on a black cushion with emerald lace, on a pale tiled rooftop. Fine charcoal outlines trace the school, hillside houses and bridge beneath an electrical eclipse in a white sky. Open the interactive playground." />
   </picture></a>
 </div>
-
-<div align="center">
-
-[Explore the interactive 3D playground](https://prithvi8706.github.io/Prithvi8706/)
-
-</div>
-
-<p align="center">
-  <a href="assets/mascot-v061/turbo-granny-dark-still-6b4a3a81ca41.png#gh-dark-mode-only">View the mascot as a still image</a>
-  <a href="assets/mascot-v061/turbo-granny-light-still-ad4c0c0d61c7.png#gh-light-mode-only">View the mascot as a still image</a>
-</p>
-
-<div align="center">
-
-[Email about research collaborations](mailto:prithviraghu080706@gmail.com)
-
-</div>
-
-<div align="center">
-
-<sub>powered by [readme-aura](https://github.com/collectioneur/readme-aura)</sub>
-
-</div>
