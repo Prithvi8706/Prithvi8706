@@ -1,6 +1,6 @@
 <div align="center">
 
-[Read papers and code](#user-content-papers-and-code) · [Email](mailto:prithviraghu080706@gmail.com)
+[Read papers and code](#user-content-papers-and-code) · [Email](mailto:prithviraghu080706@gmail.com) · [Portfolio](https://prithviraghu.vercel.app/)
 
 </div>
 
