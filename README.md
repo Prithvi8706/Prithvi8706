@@ -47,10 +47,10 @@
 
 ## Papers and code
 
-* **Quantum games**: [paper (PDF)](https://github.com/Prithvi8706/Multiplayer-QHD-Game/blob/main/paper/qhd.pdf) · [code](https://github.com/Prithvi8706/Multiplayer-QHD-Game)
-* **Quantum ML**: [paper (PDF)](https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN/blob/main/paper/fqcnn.pdf) · [code](https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN)
-* **Option pricing**: [draft](https://github.com/Prithvi8706/quantum_option_pricing/blob/main/manuscript/2026-09-22/main.md) · [code](https://github.com/Prithvi8706/quantum_option_pricing)
-* **HF geolocation**: [results](https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation#4-validated-results) · [code](https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation)
+* **Quantum games**: [paper (PDF)](https://github.com/Prithvi8706/Multiplayer-QHD-Game/blob/main/paper/qhd.pdf) · [code](https://github.com/Prithvi8706/Multiplayer-QHD-Game) · **First author.** My part: the incentive-boundary theory, the circuit and game-theory code, all IBM hardware experiments and the manuscript (Codex-assisted, disclosed in the paper). Co-author Aasa Singh Bhui built the topology sweep, reporting and strategy-optimisation code.
+* **Quantum ML**: [paper (PDF)](https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN/blob/main/paper/fqcnn.pdf) · [code](https://github.com/Prithvi8706/Fully-Quantum-Native-QCNN) · **Second author, joined June 2026.** My part: the evaluation protocol, the Lie-algebra and capacity analysis, the corrected pooling experiments, the figures and the AI-assisted manuscript text. First author Aasa Singh Bhui started the project and built the original model.
+* **Option pricing**: [draft](https://github.com/Prithvi8706/quantum_option_pricing/blob/main/manuscript/2026-09-22/main.md) · [code](https://github.com/Prithvi8706/quantum_option_pricing) · **Sole human author, AI-assisted.** My part: the research question, the claims, protocol approvals and review of all results. AI coding agents (Codex, Claude Code) wrote and ran much of the code and drafted text; their use is logged in the repo.
+* **HF geolocation**: [results](https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation#4-validated-results) · [code](https://github.com/Prithvi8706/Real-Time-Ionospheric-Geolocation) · **Solo project**, no co-authors.
 
 <div align="center">
   <a href="https://prithvi8706.github.io/Prithvi8706/#gh-dark-mode-only"><picture>
